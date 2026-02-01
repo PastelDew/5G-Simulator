@@ -58,13 +58,13 @@ src/
 
 TestCase1(TC1)을 나타낸 것으로 eNB 개수와 UE 개수를 수정할 수 있습니다.
 
-### 4G 시그널링 - Initial Attach(1~2), 핸드오버(3~4)
+### 4G 시그널링 - Initial Attach(1\~2), 핸드오버(3\~4)
 
 ![4G Signaling](images/4g-signaling.png)
 
 4G 상에서 Initial Attach와 핸드오버의 절차를 보여줍니다.
-- **1~2번**: Initial Attach
-- **3~4번**: 핸드오버 과정
+- **1\~2번**: Initial Attach
+- **3\~4번**: 핸드오버 과정
 
 ---
 
@@ -86,7 +86,7 @@ TestCase1(TC1)을 나타낸 것으로 eNB 개수와 UE 개수를 수정할 수 �
 
 ![5G Inter-GW HO](images/5g-inter-gw-ho-steps.png)
 
-5G 상에서 Initial Attach(1~2)와 Inter-GW HO(3~4)를 나타낸 그림입니다.
+5G 상에서 Initial Attach(1\~2)와 Inter-GW HO(3\~4)를 나타낸 그림입니다.
 
 ### Inter-GW HO - RO 오버뷰
 
